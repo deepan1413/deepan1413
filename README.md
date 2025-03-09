@@ -37,6 +37,7 @@
 
 ## 🔗 Connect with Me
 
+- 🌐 [Portfolio](https://deepan.fun)
 - 🌐 [GitHub Profile](https://github.com/Deepan1413)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/deepan-l-3aabb425b)
 - 🎨 [Figma Profile](https://www.figma.com/@deepanl)
